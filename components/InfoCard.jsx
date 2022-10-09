@@ -9,11 +9,11 @@ const InfoCard = () => {
                 What is the quality of downloaded videos?
               </h2>
               <p className="text-muted text-left">
-                Online video downloader can function as an MP4 converter. That
-                means you can save high-quality videos in MP4 format. Our
-                software supports SD, HD, FullHD, 2K, and 4K. If an author
-                uploaded a video in 1080p, you could save it in the same
-                quality.
+                Online videotape downloader can serve as an MP4 motor. That
+                means you can save high- quality vids in MP4 format. Our
+                software supports SD, HD, FullHD, 2K, and 4K. still, you could
+                save it in the same quality, If an author uploaded a videotape
+                in 1080p.
               </p>
             </div>
           </div>
@@ -24,11 +24,12 @@ const InfoCard = () => {
           <div className="media">
             <div className="media-body">
               <h2 className="text-center">
-                Which browsers does this online video downloader support?
+                Which cybersurfers does this online videotape downloader
+                support?
               </h2>
               <p className="text-muted text-left">
                 You can use Google Chrome, Mozilla Firefox, Safari, Opera, and
-                all Chromium-based browsers.
+                all Chromium- grounded cybersurfers.
               </p>
             </div>
           </div>

@@ -9,8 +9,8 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta charSet="UTF-8" />
 
-        <title>Online Video Downloader - SSYouTube.com</title>
-        <meta name="description" content="Online video downloader by Ssyoutube is a fast and safe software allowing to download videos from the Internet in unlimited numbers. Our online video download service is secure, easy to use, and free!" />
+        <title>Online Youtube Video Downloader</title>
+        <meta name="description" content="Online video downloader by instantyoutubevideodownloader is a fast and safe software allowing to download videos from the Internet in unlimited numbers. Our online video download service is secure, easy to use, and free!" />
 
         <meta httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" />
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no"

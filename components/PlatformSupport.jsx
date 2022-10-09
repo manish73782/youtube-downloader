@@ -8,10 +8,10 @@ const PlatformSupport = () => {
           <div className="media">
             <div className="media-body">
               <p className="text-muted">
-                Tired of looking for the perfect software to download videos or
-                music online? We have a FREE solution for you! The instant
-                youtube video downloader allows you to download videos or music
-                with just one click!
+                Tired of looking for the perfect software to download vids or
+                music online? We have a FREE result for you! The instant youtube
+                videotape downloader allows you to download vids or music with
+                just oneclick!
               </p>
             </div>
           </div>
