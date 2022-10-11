@@ -5,7 +5,7 @@ const Sitemap = () => {
   return null;
 };
 
-export const getServerSideProps = ({ res }) => {
+export const getStaticProps = ({ res }) => {
   const baseUrl = "https://instantyoutubevideodownloader.xyz"
 
   const staticPages = fs
