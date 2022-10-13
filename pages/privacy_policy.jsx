@@ -82,13 +82,13 @@ function privacy_policy() {
         <p>
           instantyoutubevideodownloader follows a standard procedure of using
           log files. These files log visitors when they visit websites. All
-          hosting companies do this and a part of hosting services' analytics.
+          hosting companies do this and a part of hosting services analytics.
           The information collected by log files include internet protocol (IP)
           addresses, browser type, Internet Service Provider (ISP), date and
           time stamp, referring/exit pages, and possibly the number of clicks.
           These are not linked to any information that is personally
           identifiable. The purpose of the information is for analyzing trends,
-          administering the site, tracking users' movement on the website, and
+          administering the site, tracking users movement on the website, and
           gathering demographic information.
         </p>
 
@@ -100,7 +100,7 @@ function privacy_policy() {
           based upon their visit to www.website.com and other sites on the
           internet. However, visitors may choose to decline the use of DART
           cookies by visiting the Google ad and content network Privacy Policy
-          at the following URL –
+          at the following URL
           <a href="https://policies.google.com/technologies/ads">
             https://policies.google.com/technologies/ads
           </a>
@@ -117,7 +117,7 @@ function privacy_policy() {
           Third-party ad servers or ad networks uses technologies like cookies,
           JavaScript, or Web Beacons that are used in their respective
           advertisements and links that appear on instantyoutubevideodownloader,
-          which are sent directly to users' browser. They automatically receive
+          which are sent directly to users browser. They automatically receive
           your IP address when this occurs. These technologies are used to
           measure the effectiveness of their advertising campaigns and/or to
           personalize the advertising content that you see on websites that you
@@ -177,30 +177,30 @@ function privacy_policy() {
           protection rights. Every user is entitled to the following:
         </p>
         <p>
-          The right to access – You have the right to request copies of your
+          The right to access : You have the right to request copies of your
           personal data. We may charge you a small fee for this service.
         </p>
         <p>
-          The right to rectification – You have the right to request that we
+          The right to rectification : You have the right to request that we
           correct any information you believe is inaccurate. You also have the
           right to request that we complete the information you believe is
           incomplete.
         </p>
         <p>
-          The right to erasure – You have the right to request that we erase
+          The right to erasure : You have the right to request that we erase
           your personal data, under certain conditions.
         </p>
         <p>
-          The right to restrict processing – You have the right to request that
+          The right to restrict processing : You have the right to request that
           we restrict the processing of your personal data, under certain
           conditions.
         </p>
         <p>
-          The right to object to processing – You have the right to object to
+          The right to object to processing : You have the right to object to
           our processing of your personal data, under certain conditions.
         </p>
         <p>
-          The right to data portability – You have the right to request that we
+          The right to data portability : You have the right to request that we
           transfer the data that we have collected to another organization, or
           directly to you, under certain conditions.
         </p>
