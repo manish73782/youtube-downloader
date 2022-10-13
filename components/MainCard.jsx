@@ -61,6 +61,9 @@ const SearchForm = ({
             type="text"
             placeholder="Paste your video link here"
             className="textinput textInput form-control"
+            style={{
+              border: "none",
+            }}
             value={ytUrl}
             onChange={(e) => setUrl(e.target.value)}
           />
@@ -267,9 +270,9 @@ const MainCard = () => {
                 />
                 <div className="col-auto">
                   By using our service you accept our
-                  <Link href="/term_of_service">Terms of Service</Link>
+                  <Link href="/term_of_service"> Terms of Service</Link>
                   {" and "}
-                  <Link href="/privacy_policy">Privacy Policy </Link>
+                  <Link href="/privacy_policy">Privacy Policy</Link>
                 </div>
                 {isLoading && (
                   <Image

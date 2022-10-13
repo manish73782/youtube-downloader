@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const Footer = () => {
   return (
     <footer className="bg-black pb-5 pt-4 mt-auto">
@@ -5,6 +7,12 @@ const Footer = () => {
         <div className="col-md-12">
           <span className="d-block mt-3 text-gray">
             © 2022 YouTube Downloader
+          </span>
+        </div>
+        <div className="col-md-12">
+          <span className="d-block mt-3 text-gray">
+            <Link href="/about_us">About Us</Link>|{" "}
+            <Link href="/contact_us">Contact US</Link>
           </span>
         </div>
       </div>

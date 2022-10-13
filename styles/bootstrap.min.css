@@ -12339,8 +12339,8 @@ footer.bg-black a {
   position: relative;
 }
 input[type="text"] {
-  height: 50px;
-  border: none !important;
+  /* height: 50px; */
+  /* border: none !important; */
   outline: none !important;
   box-shadow: none !important;
 }
