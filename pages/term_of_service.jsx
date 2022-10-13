@@ -30,19 +30,19 @@ function term_of_service() {
 
         <p>
           The following terminology applies to these Terms and Conditions,
-          Privacy Statement and Disclaimer Notice and all Agreements: "Client",
-          "You" and "Your" refers to you, the person log on this website and
-          compliant to the Company’s terms and conditions. "The Company",
-          "Ourselves", "We", "Our" and "Us", refers to our Company. "Party",
-          "Parties", or "Us", refers to both the Client and ourselves. All terms
-          refer to the offer, acceptance and consideration of payment necessary
-          to undertake the process of our assistance to the Client in the most
-          appropriate manner for the express purpose of meeting the Client’s
-          needs in respect of provision of the Company’s stated services, in
-          accordance with and subject to, prevailing law of Netherlands. Any use
-          of the above terminology or other words in the singular, plural,
-          capitalization and/or he/she or they, are taken as interchangeable and
-          therefore as referring to same.
+          Privacy Statement and Disclaimer Notice and all Agreements: {"Client"}
+          ,{"You"} and {"Your"} refers to you, the person log on this website
+          and compliant to the Companys terms and conditions. {"The Company"},
+          {"Ourselves"}, {"We"}, {"Our"} and {"Us"}, refers to our Company.{" "}
+          {"Party"},{"Parties"}, or {"Us"}, refers to both the Client and
+          ourselves. All terms refer to the offer, acceptance and consideration
+          of payment necessary to undertake the process of our assistance to the
+          Client in the most appropriate manner for the express purpose of
+          meeting the Clients needs in respect of provision of the Companys
+          stated services, in accordance with and subject to, prevailing law of
+          Netherlands. Any use of the above terminology or other words in the
+          singular, plural, capitalization and/or he/she or they, are taken as
+          interchangeable and therefore as referring to same.
         </p>
 
         <h3>
@@ -52,11 +52,11 @@ function term_of_service() {
         <p>
           We employ the use of cookies. By accessing
           instantyoutubevideodownloader, you agreed to use cookies in agreement
-          with the youtube downloader's Privacy Policy.{" "}
+          with the youtube downloaders Privacy Policy.
         </p>
 
         <p>
-          Most interactive websites use cookies to let us retrieve the user’s
+          Most interactive websites use cookies to let us retrieve the users
           details for each visit. Cookies are used by our website to enable the
           functionality of certain areas to make it easier for people visiting
           our website. Some of our affiliate/advertising partners may also use
@@ -90,14 +90,7 @@ function term_of_service() {
           <li>Redistribute content from instantyoutubevideodownloader</li>
         </ul>
 
-        <p>
-          This Agreement shall begin on the date hereof. Our Terms and
-          Conditions were created with the help of the{" "}
-          <a href="https://www.termsandconditionsgenerator.com/">
-            Free Terms and Conditions Generator
-          </a>
-          .
-        </p>
+        <p>This Agreement shall begin on the date hereof.</p>
 
         <p>
           Parts of this website offer an opportunity for users to post and
@@ -178,7 +171,7 @@ function term_of_service() {
           other Website information so long as the link: (a) is not in any way
           deceptive; (b) does not falsely imply sponsorship, endorsement or
           approval of the linking party and its products and/or services; and
-          (c) fits within the context of the linking party’s site.
+          (c) fits within the context of the linking partys site.
         </p>
 
         <p>
@@ -209,7 +202,7 @@ function term_of_service() {
           These organizations may link to our home page so long as the link: (a)
           is not in any way deceptive; (b) does not falsely imply sponsorship,
           endorsement or approval of the linking party and its products or
-          services; and (c) fits within the context of the linking party’s site.
+          services; and (c) fits within the context of the linking partys site.
         </p>
 
         <p>
@@ -230,12 +223,12 @@ function term_of_service() {
           <li>
             By use of any other description of our Website being linked to that
             makes sense within the context and format of content on the linking
-            party’s site.
+            partys site.
           </li>
         </ul>
 
         <p>
-          No use of youtube downloader's logo or other artwork will be allowed
+          No use of youtube downloaders logo or other artwork will be allowed
           for linking absent a trademark license agreement.
         </p>
 
@@ -276,7 +269,7 @@ function term_of_service() {
           We reserve the right to request that you remove all links or any
           particular link to our Website. You approve to immediately remove all
           links to our Website upon request. We also reserve the right to amen
-          these terms and conditions and it’s linking policy at any time. By
+          these terms and conditions and its linking policy at any time. By
           continuously linking to our Website, you agree to be bound to and
           follow these linking terms and conditions.
         </p>
