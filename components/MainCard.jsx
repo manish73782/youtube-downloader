@@ -1,5 +1,6 @@
 import axios from "axios";
 import Image from "next/image";
+import Link from "next/link";
 import { useState } from "react";
 
 function getVideoId(url) {
@@ -264,6 +265,12 @@ const MainCard = () => {
                   setFormatts={setFormatts}
                   setDefault={setDefault}
                 />
+                <div className="col-auto">
+                  By using our service you accept our
+                  <Link href="/term_of_service">Terms of Service</Link>
+                  {" and "}
+                  <Link href="/privacy_policy">Privacy Policy </Link>
+                </div>
                 {isLoading && (
                   <Image
                     loading="lazy"
