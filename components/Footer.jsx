@@ -10,8 +10,11 @@ const Footer = () => {
           </span>
         </div>
         <div className="col-md-12">
-          <span className="d-block mt-3 text-gray">
-            <Link href="/about_us">About Us</Link>|{" "}
+          <span
+            className="mt-3 text-slate-600"
+            style={{ display: "flex", gap: "1rem", justifyContent: "center" }}
+          >
+            <Link href="/about_us">About Us</Link>
             <Link href="/contact_us">Contact US</Link>
           </span>
         </div>

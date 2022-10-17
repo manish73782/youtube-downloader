@@ -268,7 +268,13 @@ const MainCard = () => {
                   setFormatts={setFormatts}
                   setDefault={setDefault}
                 />
-                <div className="col-auto">
+                <div
+                  className="col-auto"
+                  style={{
+                    fontSize: "0.8rem",
+                    letterSpacing: "0.1rem",
+                  }}
+                >
                   By using our service you accept our
                   <Link href="/term_of_service"> Terms of Service</Link>
                   {" and "}

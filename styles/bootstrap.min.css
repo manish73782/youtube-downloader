@@ -12263,7 +12263,8 @@ article blockquote {
   font-style: italic;
 }
 footer.bg-black a {
-  color: #20c997;
+  color: #969696;
+  text-decoration: none;
 }
 .h-auto-300 {
   height: auto !important;
